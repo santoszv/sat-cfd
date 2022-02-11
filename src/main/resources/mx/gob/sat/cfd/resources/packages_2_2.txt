@@ -1,0 +1,15 @@
+mx.gob.sat.cfdi.bindings.cfdv22
+mx.gob.sat.cfdi.bindings.detallista
+mx.gob.sat.cfdi.bindings.divisas
+mx.gob.sat.cfdi.bindings.donat11
+mx.gob.sat.cfdi.bindings.ecb
+mx.gob.sat.cfdi.bindings.ecc
+mx.gob.sat.cfdi.bindings.iedu
+mx.gob.sat.cfdi.bindings.implocal
+mx.gob.sat.cfdi.bindings.leyendasFisc
+mx.gob.sat.cfdi.bindings.pfic
+mx.gob.sat.cfdi.bindings.psgcfdsp
+mx.gob.sat.cfdi.bindings.psgecfd
+mx.gob.sat.cfdi.bindings.terceros11
+mx.gob.sat.cfdi.bindings.TuristaPasajeroExtranjero
+mx.gob.sat.cfdi.bindings.ventavehiculos

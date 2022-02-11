@@ -1,0 +1,11 @@
+mx.gob.sat.cfdi.bindings.cfdv2
+mx.gob.sat.cfdi.bindings.detallista
+mx.gob.sat.cfdi.bindings.divisas
+mx.gob.sat.cfdi.bindings.donat
+mx.gob.sat.cfdi.bindings.ecb
+mx.gob.sat.cfdi.bindings.ecc
+mx.gob.sat.cfdi.bindings.iedu
+mx.gob.sat.cfdi.bindings.implocal
+mx.gob.sat.cfdi.bindings.psgcfdsp
+mx.gob.sat.cfdi.bindings.psgecfd
+mx.gob.sat.cfdi.bindings.terceros
