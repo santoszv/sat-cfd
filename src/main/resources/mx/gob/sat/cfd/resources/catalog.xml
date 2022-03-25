@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <!-- Resources -->
     <uri name="http://www.sat.gob.mx/sitio_internet/cfd/1/cadenaoriginal_1_0/cadenaoriginal_1_0.xsl" uri="./http_www_sat_gob_mx/sitio_internet/cfd/1/cadenaoriginal_1_0/cadenaoriginal_1_0.xsl"/>
     <uri name="http://www.sat.gob.mx/sitio_internet/cfd/1/cfdv1.xsd" uri="./http_www_sat_gob_mx/sitio_internet/cfd/1/cfdv1.xsd"/>
     <uri name="http://www.sat.gob.mx/sitio_internet/cfd/2/cadenaoriginal_2_0/cadenaoriginal_2_0.xslt" uri="./http_www_sat_gob_mx/sitio_internet/cfd/2/cadenaoriginal_2_0/cadenaoriginal_2_0.xslt"/>
@@ -117,6 +118,7 @@
     <uri name="http://www.sat.gob.mx/sitio_internet/cfd/ventavehiculos/ventavehiculos.xslt" uri="./http_www_sat_gob_mx/sitio_internet/cfd/ventavehiculos/ventavehiculos.xslt"/>
     <uri name="http://www.sat.gob.mx/sitio_internet/cfd/ventavehiculos/ventavehiculos11.xsd" uri="./http_www_sat_gob_mx/sitio_internet/cfd/ventavehiculos/ventavehiculos11.xsd"/>
     <uri name="http://www.sat.gob.mx/sitio_internet/cfd/ventavehiculos/ventavehiculos11.xslt" uri="./http_www_sat_gob_mx/sitio_internet/cfd/ventavehiculos/ventavehiculos11.xslt"/>
+    <!-- Aliases -->
     <uri name="http://www.sat.gob.mx/timbrefiscaldigital/cadenaoriginal_TFD_1_0.xslt" uri="http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/cadenaoriginal_TFD_1_0.xslt"/>
     <uri name="http://www.sat.gob.mx/timbrefiscaldigital/TimbreFiscalDigital.xsd" uri="http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigital.xsd"/>
     <uri name="http://www.sat.gob.mx/TimbreFiscalDigital/cadenaoriginal_TFD_1_0.xslt" uri="http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/cadenaoriginal_TFD_1_0.xslt"/>
