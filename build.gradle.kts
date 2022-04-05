@@ -1,5 +1,5 @@
 group = "mx.com.inftel.sat"
-version = "2022.03.24"
+version = "2022.04.04"
 
 plugins {
     `java-library`
@@ -38,6 +38,7 @@ publishing {
     repositories {
         maven {
             setUrl(file("$projectDir/build/repo"))
+            //setUrl("https://oss.sonatype.org/service/local/staging/deploy/maven2/")
         }
     }
 

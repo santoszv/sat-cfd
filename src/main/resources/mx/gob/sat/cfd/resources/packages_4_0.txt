@@ -2,7 +2,7 @@ mx.gob.sat.cfd.bindings.aerolineas
 mx.gob.sat.cfd.bindings.CartaPorte20
 mx.gob.sat.cfd.bindings.certificadodedestruccion
 mx.gob.sat.cfd.bindings.cfdiregistrofiscal
-mx.gob.sat.cfd.bindings.cfdv4
+mx.gob.sat.cfd.bindings.cfdv40
 mx.gob.sat.cfd.bindings.ComercioExterior11
 mx.gob.sat.cfd.bindings.consumodeCombustibles11
 mx.gob.sat.cfd.bindings.detallista
