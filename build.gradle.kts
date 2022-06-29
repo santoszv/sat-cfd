@@ -1,5 +1,5 @@
 group = "mx.com.inftel.sat"
-version = "2022.04.04"
+version = "2022.06.28"
 
 plugins {
     `java-library`
