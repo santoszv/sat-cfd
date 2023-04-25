@@ -13,6 +13,8 @@
     <namespace prefix="catPagos" uri="http://www.sat.gob.mx/sitio_internet/cfd/catalogos/Pagos"/>
     <namespace prefix="certificadodedestruccion" uri="http://www.sat.gob.mx/certificadodestruccion"/>
     <namespace prefix="cfdiregistrofiscal" uri="http://www.sat.gob.mx/registrofiscal"/>
+    <namespace prefix="cfdv2" uri="http://www.sat.gob.mx/cfd/2"/>
+    <namespace prefix="cfdv22" uri="http://www.sat.gob.mx/cfd/2"/>
     <namespace prefix="cfdv3" uri="http://www.sat.gob.mx/cfd/3"/>
     <namespace prefix="cfdv32" uri="http://www.sat.gob.mx/cfd/3"/>
     <namespace prefix="cfdv33" uri="http://www.sat.gob.mx/cfd/3"/>
